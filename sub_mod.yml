@@ -1,0 +1,6 @@
+subscription object mod:
+spec:
+  config:
+    env:
+    - name: DISABLE_DEX
+      Value: "false"
