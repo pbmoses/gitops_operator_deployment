@@ -3,4 +3,4 @@ spec:
   config:
     env:
     - name: DISABLE_DEX
-      Value: "false"
+      value: "false"
