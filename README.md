@@ -10,3 +10,4 @@ spec:
     - name: DISABLE_DEX
       Value: "false"
 
+****this is no longer needed in operator 1.1.0+
